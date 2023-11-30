@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!-- a percent sign is just saying hey we're starting to run some code on the server and i want you to run that code -->
+    <!-- Then with the equal sign here it says output that code to the page -->
+    <h1>Math <%= 2+2 %></h1>
+    <h1>Hello <%= text %></h1>
+    <!-- We can display error message or default if code does't work properly: use locals for that -->
+    <h1>Hello <%= locals.text123 || "default" %></h1>
+  </body>
+</html>
