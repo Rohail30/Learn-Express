@@ -8,4 +8,3 @@ Open your terminal and follow these steps:
 
 Your project is now ready to roll!
 
-Reference(https://medium.com/swlh/restful-api-design-get-post-put-patch-delete-a-walkthrough-with-javascripts-fetch-api-e37a8416e2a0)
