@@ -4,3 +4,6 @@ make a server.js file in the main folder
 
 To start the server run this command in the terminal:
 node server.js
+
+nmp init -y
+npm i express
