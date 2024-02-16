@@ -7,8 +7,11 @@ functions are functions that have access to the request object (req), the respon
 Middleware functions can perform the following tasks:
 
 1.Execute any code.
+
 2.Make changes to the request and the response objects.
+
 3.End the request-response cycle.
+
 4.Call the next middleware in the stack.
 
 I have made a simple logger function
